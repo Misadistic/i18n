@@ -214,7 +214,7 @@ msgstr "Gefällt (Herz) Knöpfe: %s"
 #: handlers/settings.py:43
 #, fuzzy, python-format
 msgid "Inline mode captions: %s"
-msgstr "Inline mode captions: %s"
+msgstr "Inline-Modusbeschriftungen: %s"
 
 #: handlers/settings.py:46
 #, python-format
